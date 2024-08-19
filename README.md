@@ -1,2 +1,1 @@
-# Music_Store_Data_Analysis
-SQL-powered analysis:  🏅 Top Employees: Ranked senior and junior staff. 🌍 Global Sales: Top/least invoiced countries. 💰 Big Spenders: Top customers and high-value invoices. 🎸 Rock Stars: Leading rock artists and fans. ⏱️ Epic Tracks: Tracks longer than average.
+This SQL-powered analysis project involved ranking senior and junior staff based on their roles, identifying the top and least invoiced countries, and determining the top customers alongside high-value invoices. Additionally, the project highlighted leading rock artists and their fan bases while identifying tracks longer than the average duration.
